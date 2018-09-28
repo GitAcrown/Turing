@@ -5,7 +5,7 @@ imgurpython
 wikipedia
 wikipedia-api
 sumy
-sumpy
+sympy
 numpy
 pyfootball
 country_converter
