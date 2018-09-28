@@ -1,0 +1,10 @@
+pip
+git+git://github.com/Rapptz/discord.py.gityoutube_dl
+imgurpython
+wikipedia
+wikipedia-api
+sumy
+numpy
+pyfootball
+country_converter
+lyricwikia
