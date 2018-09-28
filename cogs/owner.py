@@ -98,7 +98,7 @@ class Owner:
         except CogUnloadError as e:
             log.exception(e)
             traceback.print_exc()
-            await self.bot.say("Ce module n'a pas pu être déchargé de manière sécurisé."")
+            await self.bot.say("Ce module n'a pas pu être déchargé de manière sécurisé.")
         else:
             await self.bot.say("Ce module à été déchargé.")
 
