@@ -894,7 +894,7 @@ class Owner:
             for page in pagify(self.bot._last_exception):
                 await self.bot.send_message(destination, box(page, lang="py"))
         else:
-            await self.bot.say("Aucune exception n'a eu lieue pour le moment."))
+            await self.bot.say("Aucune exception n'a eu lieue pour le moment.")
 
     def _populate_list(self, _list):
         """Retourne des pages des membres (Whitelist/Blacklist)"""
