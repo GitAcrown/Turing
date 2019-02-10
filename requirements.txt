@@ -6,7 +6,8 @@ wikipedia
 wikipedia-api
 pyowm
 gspread
-sumy
+oauth2client
+PyOpenSSL
 sympy
 numpy
 pyfootball
