@@ -7,6 +7,7 @@ wikipedia-api
 pyowm
 gspread
 oauth2client
+schedule
 PyOpenSSL
 sympy
 numpy
