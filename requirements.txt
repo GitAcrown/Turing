@@ -4,7 +4,8 @@ youtube_dl
 imgurpython
 wikipedia
 wikipedia-api
-weather-api
+pyowm
+gspread
 sumy
 sympy
 numpy
