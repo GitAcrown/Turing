@@ -1,5 +1,6 @@
 pip
 git+git://github.com/Rapptz/discord.py.git#egg=discord.py[voice]
+git+https://github.com/abenassi/Google-Search-API
 youtube_dl
 imgurpython
 wikipedia
