@@ -10,6 +10,7 @@ gspread
 oauth2client
 schedule
 PyOpenSSL
+praw
 sympy
 numpy
 pyfootball
