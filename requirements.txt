@@ -13,6 +13,5 @@ PyOpenSSL
 praw
 sympy
 numpy
-pyfootball
-country_converter
 lyricwikia
+cleverbotfree
